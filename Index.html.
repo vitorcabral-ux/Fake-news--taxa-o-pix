@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fake News: Taxação do Pix</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background: #0070f3;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .container {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+    }
+
+    h2 {
+      color: #0070f3;
+    }
+
+    .fake-news-box {
+      border-left: 5px solid red;
+      background: #ffe6e6;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .truth-box {
+      border-left: 5px solid green;
+      background: #e6ffe6;
+      padding: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      background: #0070f3;
+      color: white;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Desmentindo Fake News: Taxação do Pix</h1>
+  </header>
+
+  <div class="container">
+    <h2>O que estão dizendo?</h2>
+    <div class="fake-news-box">
+      <strong>Fake News:</strong> “O governo vai começar a cobrar taxas sobre todas as transações feitas via Pix.”
+    </div>
+
+    <h2>Qual é a verdade?</h2>
+    <div class="truth-box">
+      <strong>Fato:</strong> O Banco Central e a Receita Federal já esclareceram que <strong>não existe taxação para pessoas físicas</strong> que usam o Pix. A cobrança de impostos só ocorre em casos específicos, como:
+      <ul>
+        <li>Uso comercial do Pix (ex: empresa ou MEI recebendo de clientes).</li>
+        <li>Recebimentos frequentes e de alto valor, caracterizando atividade econômica.</li>
+      </ul>
+      Para a maioria das pessoas, <strong>o Pix continua gratuito</strong>.
+    </div>
+
+    <h2>Como se proteger de fake news?</h2>
+    <ul>
+      <li>Verifique a informação em fontes confiáveis como sites do governo e portais de notícias reconhecidos.</li>
+      <li>Desconfie de mensagens alarmistas que circulam em grupos de WhatsApp.</li>
+      <li>Compartilhe apenas conteúdos que você verificou.</li>
+    </ul>
+  </div>
+
+  <footer>
+    Desenvolvido para combater a desinformação sobre o Pix.
+  </footer>
+</body>
+</html>
